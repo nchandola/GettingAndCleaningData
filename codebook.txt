@@ -1,0 +1,91 @@
+Data Set Code Book: Tidy Data Set with the average/mean of each variable for each activity and subject (subjectID) , from merged train and test project data sets. 
+
+CodeBook 
+March 6, 2016
+CodeBook prepared by Nitin Chandola
+
+The tidy data contains 180 rows of average/mean data of each variable for each activity and subject.
+
+Field information is provided below in following format (Field label, Variable Type) :
+
+"activity", factor
+"subjectID", integer
+"timeBodyAccelerometor-Mean()-X", numeric
+"timeBodyAccelerometor-Mean()-Y", numeric
+"timeBodyAccelerometor-Mean()-Z", numeric
+"timeBodyAccelerometor-Standard()-X", numeric
+"timeBodyAccelerometor-Standard()-Y", numeric
+"timeBodyAccelerometor-Standard()-Z", numeric
+"timeGravityAccelerometor-Mean()-X", numeric
+"timeGravityAccelerometor-Mean()-Y", numeric
+"timeGravityAccelerometor-Mean()-Z", numeric
+"timeGravityAccelerometor-Standard()-X", numeric
+"timeGravityAccelerometor-Standard()-Y", numeric
+"timeGravityAccelerometor-Standard()-Z", numeric
+"timeBodyAccelerometorJerk-Mean()-X", numeric
+"timeBodyAccelerometorJerk-Mean()-Y", numeric
+"timeBodyAccelerometorJerk-Mean()-Z", numeric
+"timeBodyAccelerometorJerk-Standard()-X", numeric
+"timeBodyAccelerometorJerk-Standard()-Y", numeric
+"timeBodyAccelerometorJerk-Standard()-Z", numeric
+"timeBodyGyroScope-Mean()-X", numeric
+"timeBodyGyroScope-Mean()-Y", numeric
+"timeBodyGyroScope-Mean()-Z", numeric
+"timeBodyGyroScope-Standard()-X", numeric
+"timeBodyGyroScope-Standard()-Y", numeric
+"timeBodyGyroScope-Standard()-Z", numeric
+"timeBodyGyroScopeJerk-Mean()-X", numeric
+"timeBodyGyroScopeJerk-Mean()-Y", numeric
+"timeBodyGyroScopeJerk-Mean()-Z", numeric
+"timeBodyGyroScopeJerk-Standard()-X", numeric
+"timeBodyGyroScopeJerk-Standard()-Y", numeric
+"timeBodyGyroScopeJerk-Standard()-Z", numeric
+"timeBodyAccelerometorMagnitude-Mean()", numeric
+"timeBodyAccelerometorMagnitude-Standard()", numeric
+"timeGravityAccelerometorMagnitude-Mean()", numeric
+"timeGravityAccelerometorMagnitude-Standard()", numeric
+"timeBodyAccelerometorJerkMagnitude-Mean()", numeric
+"timeBodyAccelerometorJerkMagnitude-Standard()", numeric
+"timeBodyGyroScopeMagnitude-Mean()", numeric
+"timeBodyGyroScopeMagnitude-Standard()", numeric
+"timeBodyGyroScopeJerkMagnitude-Mean()", numeric
+"timeBodyGyroScopeJerkMagnitude-Standard()", numeric
+"frequencyBodyAccelerometor-Mean()-X", numeric
+"frequencyBodyAccelerometor-Mean()-Y", numeric
+"frequencyBodyAccelerometor-Mean()-Z", numeric
+"frequencyBodyAccelerometor-Standard()-X", numeric
+"frequencyBodyAccelerometor-Standard()-Y", numeric
+"frequencyBodyAccelerometor-Standard()-Z", numeric
+"frequencyBodyAccelerometor-MeanFrequency()-X", numeric
+"frequencyBodyAccelerometor-MeanFrequency()-Y", numeric
+"frequencyBodyAccelerometor-MeanFrequency()-Z", numeric
+"frequencyBodyAccelerometorJerk-Mean()-X", numeric
+"frequencyBodyAccelerometorJerk-Mean()-Y", numeric
+"frequencyBodyAccelerometorJerk-Mean()-Z", numeric
+"frequencyBodyAccelerometorJerk-Standard()-X", numeric
+"frequencyBodyAccelerometorJerk-Standard()-Y", numeric
+"frequencyBodyAccelerometorJerk-Standard()-Z", numeric
+"frequencyBodyAccelerometorJerk-MeanFrequency()-X", numeric
+"frequencyBodyAccelerometorJerk-MeanFrequency()-Y", numeric
+"frequencyBodyAccelerometorJerk-MeanFrequency()-Z", numeric
+"frequencyBodyGyroScope-Mean()-X", numeric
+"frequencyBodyGyroScope-Mean()-Y", numeric
+"frequencyBodyGyroScope-Mean()-Z", numeric
+"frequencyBodyGyroScope-Standard()-X", numeric
+"frequencyBodyGyroScope-Standard()-Y", numeric
+"frequencyBodyGyroScope-Standard()-Z", numeric
+"frequencyBodyGyroScope-MeanFrequency()-X", numeric
+"frequencyBodyGyroScope-MeanFrequency()-Y", numeric
+"frequencyBodyGyroScope-MeanFrequency()-Z", numeric
+"frequencyBodyAccelerometorMagnitude-Mean()", numeric
+"frequencyBodyAccelerometorMagnitude-Standard()", numeric
+"frequencyBodyAccelerometorMagnitude-MeanFrequency()", numeric
+"frequencyBodyAccelerometorJerkMagnitude-Mean()", numeric
+"frequencyBodyAccelerometorJerkMagnitude-Standard()", numeric
+"frequencyBodyAccelerometorJerkMagnitude-MeanFrequency()", numeric
+"frequencyBodyGyroScopeMagnitude-Mean()", numeric
+"frequencyBodyGyroScopeMagnitude-Standard()", numeric
+"frequencyBodyGyroScopeMagnitude-MeanFrequency()", numeric
+"frequencyBodyGyroScopeJerkMagnitude-Mean()", numeric
+"frequencyBodyGyroScopeJerkMagnitude-Standard()", numeric
+"frequencyBodyGyroScopeJerkMagnitude-MeanFrequency()", numeric
