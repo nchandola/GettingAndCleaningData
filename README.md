@@ -18,7 +18,5 @@ Step 3: Execute the r code. There are comments in the R file to guide you throug
 
 Step 4: New Tidy Data file is created by running the last line of code (under STEP 5 section) in run_analysis.R file, and a copy has been uploaded to github.
 
-
-Note on codebook: 
-Unfortunately I am having problems reinstalling any packages. As such I am unable to regenerate the codebook using 'knitr' package. I will keep working on it and see if I can get this fixed and still upload the codebook. 
+Step 5: Manually generate a codebook and upload to codebook.txt
 
